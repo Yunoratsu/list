@@ -1,0 +1,9 @@
+We started the file handling with a simple array but in the end we noticed that something else was needed to save each file
+stat structure (for size, permissions, etc). After this, we changed the program a little, and tried to print according to
+the real ls (we are not done yet), and tried to do more "portable" stuff but rn is not even close....
+
+We will continue our tests until the final version, this is just a beta or wtvr someone may call this strap.
+
+Resources:
+https://medium.com/@pauljlucas/getting-the-terminal-width-in-c-48560b556575
+

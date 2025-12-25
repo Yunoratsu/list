@@ -1,0 +1,28 @@
+ompiled object files
+*.o
+
+# Executables
+list
+a.out
+
+# Libraries
+*.so
+*.dylib
+*.dll
+
+# Debug files
+*.out
+*.log
+
+# Backup files
+*.bkp
+*~
+
+# Build directories
+/build/
+bin/
+obj/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db

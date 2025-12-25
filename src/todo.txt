@@ -1,0 +1,8 @@
+Continue in chatgpt (rewrite strcmp in a professional manner, so that we can use it in here, and write our own
+snprintf, for formating the output clearly or just managing the path);
+
+We need to learn about argument handling (for this LS and for animefetch too, i mean those options in the CLI)
+
+Implement the cli options.
+
+Reimplement the code and repeat steps until perfection (or satisfaction).
