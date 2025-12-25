@@ -24,9 +24,9 @@ See `src/todo.txt` for planned improvements.
 ```bash
 make
 sudo make install
+```
 
 ## Usage
-
 list
 
 ## Planned Options
