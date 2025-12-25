@@ -25,17 +25,18 @@ See `src/todo.txt` for planned improvements.
 make
 sudo make install
 
-# Usage
+## Usage
+
 list
 
-Planned Options
+## Planned Options
 These options are not yet implemented but are part of the roadmap:
 •    → Show hidden files
 •    → Show detailed file information (permissions, size, etc.)
 •    → List files in a specific directory
 
-Version
+## Version
 Current version: 0.01
 
-License
+## License
 This project is licensed under the MIT License — see LICENSE for details.
